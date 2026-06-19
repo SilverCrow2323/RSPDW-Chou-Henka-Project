@@ -2,7 +2,7 @@
 
 <!-- RSPDW_LOGO_PLACEHOLDER -->
 <!-- CHOUHENKA_LOGO_PLACEHOLDER -->
-<img src="assets/logo_rspdw_chouhenka.png" width="200" alt="RSPDW Chou Henka Project Core Logo">
+<img src="logo_rspdw_chouhenka.png" width="200" alt="RSPDW Chou Henka Project Core Logo">
 
 # 🌌 RSPDW Chou Henka Project
 ### *Transmedia Omniverse Framework & Hardware Reclamation Protocol*
